@@ -18,5 +18,5 @@ Small, sub, and sup are the elements that can help you get the details right whe
    -to write copyrights in the small way it normally appears in books
    <p><small>copyrights</small></p>
 
-# "&lt"byline"&gt" tag
+# <code>"&lt"byline"&gt" tag </code>
 A byline is a line of text in an article that credits the author
