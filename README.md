@@ -16,21 +16,27 @@
    -to write copyrights in the small way it normally appears in books
    <p><small>copyrights</small></p>
 
-# <code>"&lt"byline"&gt" tag </code>
+* <code>"&lt"byline"&gt" tag </code>
 A byline is a line of text in an article that credits the author
 
 # HTML ATTRIBUTES
 - most important Global Attributes: "class," "id," "lang," and "dir."
-  # class
+  * class
       Connects html to CSS.
-  # id
+  * id
       Connects html to JavaScript.
-  # lang
+  * lang
       Determines which language the page should be set up in.
-  # dir
+  * dir
       Determines which direction the content should go.
 
 # ARIA Roles
 
 # HTML LINKS
    The term href stands for Hypertext Reference.
+
+# IMAGE FORMATS
+
+# Working With Audio
+  The audio element is different from the image element because it has both an opening and a closing tag. This makes it more modern and gives it more power and flexibility
+  <audio></audio>
