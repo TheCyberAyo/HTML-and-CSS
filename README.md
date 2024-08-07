@@ -35,6 +35,8 @@ A byline is a line of text in an article that credits the author
 # HTML LINKS
    The term href stands for Hypertext Reference.
 
+# Audio in HtML
+
 # IMAGE FORMATS
 
 # Working With Audio
